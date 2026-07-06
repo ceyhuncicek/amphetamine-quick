@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "amphetamine",
-  "title": "Amphetamine",
+  "name": "amphetamine-quick",
+  "title": "Amphetamine Quick",
   "description": "Start, end, and check Amphetamine keep-awake sessions by typing the duration as command arguments",
   "icon": "command-icon.png",
   "author": "ceyhuncicek",
