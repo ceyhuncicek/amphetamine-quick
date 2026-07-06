@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# Raycast build output
+dist
+.raycast-swift-build
+compiled
+
+# generated types
+raycast-env.d.ts
+
+# logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
