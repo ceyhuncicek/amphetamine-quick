@@ -1,4 +1,4 @@
-# Amphetamine for Raycast
+# Amphetamine Quick
 
 Control the [Amphetamine](https://apps.apple.com/app/id937984704) keep-awake app from Raycast.
 
